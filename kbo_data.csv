@@ -1,0 +1,6 @@
+object_id,name,provisional_designation,a_au,e,i_deg,perihelion_au,aphelion_au,H_mag,diameter_km,discovery_year
+1,Pluto,134340 Pluto,39.482,0.2488,17.16,29.658,49.305,-0.44,2376.6,1930
+2,Eris,136199 Eris,67.864,0.4407,44.0,37.91,97.82,-1.17,2326,2003
+3,Makemake,136472 Makemake,45.430,0.1594,29.0,38.1,52.8,-0.12,1430,2005
+4,Haumea,136108 Haumea,43.335,0.195,28.2,34.95,51.72,0.2,1560,2004
+5,Sedna,90377 Sedna,506.8,0.855,11.93,76.1,937,1.83,995,2003
